@@ -1,0 +1,14 @@
+1)Header 
+2)slider
+3)Search Bar
+4)About us  
+5)Why Choose US
+6)Stepper comonent
+7)Image gallery
+8)Owl slider
+9)Vidoe testimonials
+10)news widget / did you know 
+11)FAQ Widget
+12)contact US widget
+13)Footer
+
